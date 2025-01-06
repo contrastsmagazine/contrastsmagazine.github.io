@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
 body {
     font-family: "Newsreader", serif;
 }
@@ -6,4 +8,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 .title {
     font-weight: 600;
+    /* font-family: "Commissioner", sans-serif; */
 }
